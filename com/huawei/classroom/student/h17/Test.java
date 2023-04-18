@@ -31,7 +31,7 @@ public class Test {
 		try {
 			// 测试点 初始化各种战斗单元的攻击力、健康值、攻击范围。具体格式见rules.ini
 			BattleField
-					.init("D:\\course\\course\\exam\\src\\main\\java\\com\\huawei\\classroom\\student\\h17\\rules.ini");
+					.init("C:\\Users\\DELL\\Desktop\\University\\javaHomework\\com\\huawei\\classroom\\student\\h17\\rules.ini");
 			// 总共有几个玩家，测试的时候最少2个玩家，最多10个玩家
 			String[] playerNames = { "A", "B", "C" };
 
