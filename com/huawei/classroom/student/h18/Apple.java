@@ -3,6 +3,7 @@ package com.huawei.classroom.student.h18;
 public class Apple {
 
 	private String color;
+	private int weight;
 	public String getColor() {
 		return color;
 	}
@@ -15,5 +16,4 @@ public class Apple {
 	public void setWeight(Integer weight) {
 		this.weight = weight;
 	}
-	private int weight;
 }
