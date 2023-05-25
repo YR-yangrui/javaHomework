@@ -22,7 +22,7 @@ public class Test {
 		 * 将所有学生按总成绩从高到低排名，总成绩不会出现相同的情况
 		 */
 		//本地测试的时候要根据情况修改这个文件名
-		String fileName = "D:\\course\\java\\com\\huawei\\classroom\\student\\h19\\q05\\score.txt";
+		String fileName = "C:\\Users\\DELL\\Desktop\\University\\javaHomework\\com\\huawei\\classroom\\student\\h19\\q05\\score.txt";
 		StudentUtil util = new StudentUtil();		 
 		//将所有学生姓名按总成绩从高到低排名，如果成绩并列则按语文从高到低排列，
 		//如果语文成绩也相同，则按数学由高到低排列，如果数学成绩也相同，则按英语由高到低排列（不会出现总分相同&&语文相同&&数学相同&&英语相同情况)		 
